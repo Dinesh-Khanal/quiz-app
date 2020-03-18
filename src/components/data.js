@@ -21,5 +21,5 @@ export const data =[{
 {
     q: "Where is Rani Mahal situated?",
     opt: ["Palpa", "Kathmandu", "Pokhara"],
-    ans:1
+    ans:0
 }]
